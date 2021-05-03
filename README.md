@@ -118,7 +118,7 @@ ports:
 | `VPN_PSK`         | The Pre Shared Key. Given by your VPN supplier. | Mandatory |
 | `VPN_USERNAME`    | The username you used to sign up to your VPN supplier. | Mandatory |
 | `VPN_PASSWORD`    | The password you used to sign up to your VPN supplier. | Mandatory |
-| `TZ`              | The timezone you are in. Used the logs.  | Optional |
+| `TZ`              | The timezone you are in. Used for the logs.  | Optional |
 | `PUID`            | The UID Transmission will run with. You might run into permission issues if you do not set it. | Optional |
 | `PGID`            | Same as `PUID` but for group. | Optional |
 | `LAN`             | The network from which you will be accessing the web interface. | Mandatory |
